@@ -1,5 +1,5 @@
 # Predict the condition and insurance amount
-Dast, Furious and Insured : HackerEarth Machine Learning Challenge
+Fast, Furious and Insured : HackerEarth Machine Learning Challenge
 
 ![](images/new1.PNG)
 
