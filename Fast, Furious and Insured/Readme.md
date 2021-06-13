@@ -6,3 +6,5 @@ Fast, Furious and Insured : HackerEarth Machine Learning Challenge
 ![](images/new2.PNG)
 
 ![](images/new3.PNG)
+
+# Accuracy Achieved : 54.36372%
